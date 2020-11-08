@@ -1,7 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-For this part of the Challenge, you’ll write a report to help the manager prepare for the upcoming "silver tsunami."
-The analysis should contain the following:
+In preparation for retirement "silver tsunami" (many employees simultaneously reaching retirment age) utilize SQL databases to determine the number of reiting employees per title and identify employees who are eligible to participate in mentorship program.
 
 ## Overview 
 of the analysis: Explain the purpose of this analysis.
