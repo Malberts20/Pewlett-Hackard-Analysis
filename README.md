@@ -5,6 +5,8 @@
 In preparation for retirement "silver tsunami" (many employees simultaneously reaching retirment age) utilize SQL databases to determine the number of retiring employees per title and identify employees who are eligible to participate in mentorship program.
 
 ## Results: 
+Results for the number of retiring employees per title:
+
 
 
 
